@@ -16,7 +16,12 @@
     // Configure tool-specific properties.
     "customizations": {
         "vscode": {
-            "extensions": ["svelte.svelte-vscode", "bradlc.vscode-tailwindcss", "csstools.postcss"]
+            "extensions": [
+                "svelte.svelte-vscode",
+                "bradlc.vscode-tailwindcss",
+                "csstools.postcss",
+                "esbenp.prettier-vscode"
+            ]
         }
     }
 
