@@ -16,6 +16,10 @@
     // Configure tool-specific properties.
     "customizations": {
         "vscode": {
+            "settings": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode",
+                "editor.formatOnSave": true
+            },
             "extensions": [
                 "svelte.svelte-vscode",
                 "bradlc.vscode-tailwindcss",
