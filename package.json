@@ -12,10 +12,10 @@
         "format": "prettier --write ."
     },
     "devDependencies": {
-        "@sveltejs/adapter-auto": "^3.1.0",
-        "@sveltejs/kit": "^2.3.3",
+        "@sveltejs/adapter-auto": "^3.1.1",
+        "@sveltejs/kit": "^2.5.0",
         "@tailwindcss/forms": "^0.5.7",
-        "autoprefixer": "^10.4.16",
+        "autoprefixer": "^10.4.17",
         "postcss": "^8.4.33",
         "prettier": "^3.2.4",
         "prettier-plugin-svelte": "^3.1.2",
@@ -25,7 +25,7 @@
         "tailwindcss": "^3.4.1",
         "tslib": "^2.4.1",
         "typescript": "^5.3.3",
-        "vite": "^5.0.11"
+        "vite": "^5.0.12"
     },
     "type": "module"
 }
